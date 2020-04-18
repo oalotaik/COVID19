@@ -12,7 +12,6 @@ To analyze the relationship between COVID-19 and demographics, food deserts, foo
 4. covid_cases_in_US.png: A map visualizing the number of cases in US counties (output from analysis_and_modeling.ipynb)
 5. county_data.csv: county-level data regarding demographics, food deserts, food insecurity, and health factors (result of data_collections_preprocessing.ipynb)
 6. covid_daily: daily, cumulative counts of COVID-19 cases and deaths for US counties (result of data_collections_preprocessing.ipynb)
-7..dfggf
 
 # Results
 
