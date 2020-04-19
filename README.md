@@ -15,7 +15,7 @@ To analyze the relationship between COVID-19 and demographics, food deserts, foo
 
 # Some Interesting Results
 1. Strong correlation found between population density and COVID-19 occurrences
-2. Correlation between COVID-19 cases and low food accessibility. COVID-19 cases tend to decrease in counties with low access to a supermarket. This could be an indication that supermarkets help spread the virus more, and whoever has low access to them is a little safer. This is true except if the population who has low access is black. These findings are based on  Spearman's rank correlation coefficient. This coefficient is negative (-0.4 to -0.6) between COVID-19 cases and all low food access factors. However, it's positive (0.34) between COVID-19 cases and 'lablack1', which is % of black population who live beyond 1 mile from a supermarket.
+2. Correlation found between COVID-19 cases and low food accessibility. COVID-19 cases tend to decrease in counties with low access to a supermarket. This could be an indication that supermarkets help spread the virus more, and whoever has low access to them is a little safer. This is true except if the population who has low access is black. These findings are based on  Spearman's rank correlation coefficient. This coefficient is negative (-0.4 to -0.6) between COVID-19 cases and all low food access factors. However, it's positive (0.34) between COVID-19 cases and 'lablack1', which is % of black population who live beyond 1 mile from a supermarket.
 3. Pearson correlation coefficient between COVID-19 and % of black population is low (0.04); however, Spearman coefficient is higher (0.45). This suggests a monotonic relationship, a non-linear one since Pearson's coefficient is zero.
 
 # Acknowledgement
