@@ -1,5 +1,5 @@
 # Necessary Packages
-Libraries that come with the Anaconda distribution + GeoPandas + Seaborn
+Pandas, NumPy, Matplotlib, GeoPandas, and Seaborn
 
 # Motivation
 To analyze the relationship between COVID-19 and demographics, food deserts, food insecurity, and health factors
