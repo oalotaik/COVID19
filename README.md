@@ -8,10 +8,11 @@ To analyze the relationship between COVID-19 and demographics, food deserts, foo
 # Files
 1. raw_data folder: contains the raw data that was used in the notebook `data_collections_preprocessing.ipynb`. You can find more info about the source and features of each dataset within the notebook.
 2. `data_collections_preprocessing.ipynb`: notebook for preparing data (collecting data from multiple sources then preprocessing)
-3. `analysis_and_modeling.ipynb`: notebook for conducting basic analysis at the county level
-4. covid_cases_in_US.png: A high resolution map visualizing the number of cases in US counties (output from `analysis_and_modeling.ipynb`)
-5. county_data.csv: county-level data regarding demographics, food deserts, food insecurity, and health factors (result of `data_collections_preprocessing.ipynb`)
-6. covid_daily: daily, cumulative counts of COVID-19 cases and deaths for US counties (result of `data_collections_preprocessing.ipynb`)
+3. `initial_analysis.ipynb`: notebook for conducting basic analysis at the county level (for the first time)
+4. `covid_cases_in_US.png`: A high resolution map visualizing the number of cases in US counties (output from `initial_analysis.ipynb`)
+5. `analysis_2nd_attempt.ipynb`: a second attempt at analyzing data with more EDA for the features.
+6. `county_data.csv` and `county_data2.csv`: county-level data regarding demographics, food deserts, food insecurity, and health factors (result of `data_collections_preprocessing.ipynb`). The `county_data2.csv` is just a more recent version.
+7. `covid_daily.csv`: daily, cumulative counts of COVID-19 cases and deaths for US counties (result of `data_collections_preprocessing.ipynb`)
 
 # Some Interesting Results
 1. Strong correlation found between population density and COVID-19 occurrences
